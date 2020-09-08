@@ -160,7 +160,7 @@
 </table>
 ```
 
-## 5. テキスト変換
+5. テキスト変換
 
 - HTMLが完成したら、全体をコピーし、[このサイト](https://templates.mailchimp.com/resources/html-to-text/)のテキストボックスに
 ペースト
