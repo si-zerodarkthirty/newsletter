@@ -159,3 +159,13 @@
   ...
 </table>
 ```
+
+## 5. テキスト変換
+
+- HTMLが完成したら、全体をコピーし、[このサイト](https://templates.mailchimp.com/resources/html-to-text/)のテキストボックスに
+ペースト
+
+- 「convert」をクリック
+
+- 下に出てきたテキストをコピーし、[このtxtファイル](https://www.dropbox.com/s/0qc38b3ephqgq4j/mmTEXT.txt?dl=0)の「Reply-To」の下に貼り付け
+- ２行目の号を変更
