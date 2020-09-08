@@ -10,10 +10,10 @@
 - コードエディタでHTMLを開いて編集しながら、同時にブラウザでも同じHTMLを開いて、見た目を確認しながら進める
 - **注意：タグ（`<p>`とか`<table>`）を１つ間違って消すだけでも表示が壊れるので、慣れるまでは慎重にいじる**
 
-1. 「トップ」セクションでNoと日付を変更
+1. 「Header」セクションでNoと日付を変更
 
 ```html
-<!-- トップ -->
+<!-- Header -->
 <table border="0" cellpadding="5" cellspacing="0" style="margin-bottom: 1rem;">
   <tr>
     <td valign="top" align="center">
@@ -23,34 +23,34 @@
   <tr>
     <td valign="top" align="center">
       <h1 style="font-weight: bold; font-size: 1rem; margin: 0;">日本国際問題研究所</h1>
-      <p style="font-weight: bold; font-size: .8rem; margin: 0;">JIIAメールマガジン　No.239 (2020年8月27日)</p>
+      <p style="font-weight: bold; font-size: .8rem; margin: 0;">JIIAメールマガジン　No.240 (2020年9月**日)</p>
     </td>
   </tr>
 </table>
 ```
 
-2. 「ヘッダーアイテム」セクションでヘッダーのタイトル、画像、リンクを編集
+2. 「Featured」セクションでトップ記事のタイトル、画像、リンクを編集
 
 - 記事へのリンクを`<a href="ヘッダーアイテムへのリンクURL">`のところにいれる（`<a>`はリンクを挿入するためのタグ）
-- 画像URLを`<img src="ヘッダー画像のURL"...>`のところに入れる（`<img>`は画像を表示するためのタグ）
-- タイトルを`<h2>ヘッダーアイテムのタイトル</h2>`のところに入れる
+- 画像URLを`<img src="...">`のところに入れる（`<img>`は画像を表示するためのタグ）
+- タイトルを`<h2>...</h2>`のところに入れる
 - 一番下の方の「国際問題月表」とあるところで、月表のタイトルとリンクを編集
 
 ＊リンク、画像、タイトルテキストの入れ方は、以下も全部同様
 
 ```html
-<!-- ヘッダーアイテム -->
+<!-- Featured -->
 <table width="600px" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 2rem;">
   <tr>
     <td valign="top" align="center">
-      <a href="ヘッダーアイテムへのリンクURL">
-        <img src="ヘッダー画像のURL" alt="logo" style="width: 100%;">
+      <a href="リンク">
+        <img src="画像のURL" alt="logo" style="width: 100%;">
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h2>ヘッダーアイテムのタイトル</h2>
+      <h2>タイトル</h2>
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@
 
 4. 各セクションを編集する
 
-- サンプルファイルには「研究レポート」「研究報告」「Policy Brief」のセクションがある。これは月ごとに変わるので、それに応じてセクションを足したり消したりする必要がある
+- サンプルファイルには「研究レポート」「研究報告」「Policy Brief」などのセクションがある。これは月ごとに変わるので、それに応じてセクションを足したり消したりする必要がある
 
 - セクションを足す場合：以下のコードが１セクション分にあたるので、これを所定の位置に挿入した上で、セクションのタイトルと各アイテムの情報を編集
 
@@ -168,4 +168,5 @@
 - 「convert」をクリック
 
 - 下に出てきたテキストをコピーし、[このtxtファイル](https://www.dropbox.com/s/0qc38b3ephqgq4j/mmTEXT.txt?dl=0)の「Reply-To」の下に貼り付け
+
 - ２行目の号を変更
