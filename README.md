@@ -4,7 +4,7 @@
 - コードエディタ（普通のメモパッドでも編集できるがとてもやりづらい。[VS Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)がおすすめ）：コードの編集に使う
 - ブラウザ（Chromeなど。普段使ってる物でOK）：見た目の確認に使う
 
-*あるいは、任意のオンラインエディタを使用（例: https://jsfiddle.net/）*
+**あるいは、任意のオンラインエディタを使用（例: https://jsfiddle.net/）**
 
 ## 編集手順
 
