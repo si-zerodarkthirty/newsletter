@@ -1,4 +1,4 @@
-# メルマガ編集
+# メルマガ編集マニュアル
 
 ## 道具
 - コードエディタ（普通のメモパッドでも編集できるがとてもやりづらい。[VS Code](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)がおすすめ）：コードの編集に使う
@@ -172,3 +172,9 @@
 - 下に出てきたテキストをコピーし、[このtxtファイル](https://www.dropbox.com/s/0qc38b3ephqgq4j/mmTEXT.txt?dl=0)の「Reply-To」の下に貼り付け
 
 - ２行目の号を変更
+
+6. 担当者宛にファイルを送る
+
+- HTMLとテキストファイルの両方が完成したら、担当者宛にメールで送付する
+
+以上
