@@ -28,8 +28,6 @@
 - 同時にサンプルファイルをブラウザ（Chrome, IE, Firefoxなど）でも開く
 - コードを変更した後にVS Code側で保存（ctrl+s）し、ブラウザを更新すると、変更が反映される（慣れないうちはこまめに保存→ブラウザで表示確認を繰り返すのが安心）
 
-![](https://tva1.sinaimg.cn/large/0081Kckwgy1gkcw6udcl8j31100kl4cx.jpg)
-
 ### 2. 「Header」セクションでNoと日付を変更
 
 ```html
