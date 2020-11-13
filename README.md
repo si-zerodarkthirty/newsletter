@@ -14,10 +14,19 @@
 
 ### 0. 広報担当者から当該号の掲載事項についての指示を受ける
 
-### 1. セットアップ：JSFiddleを使う場合
+### 1-1. セットアップ：JSFiddleを使う場合
 
 - サンプルファイルをWordなどのテキストエディタで開き、全体をコピーする
 - コピーしたコードをJSFiddleの「HTML」の欄に貼り付けた後、左上の「Run ▷」を押すと、「Result」の欄にブラウザ上での表示が現れる（下画像）
+
+![](https://tva1.sinaimg.cn/large/0081Kckwgy1gkcw6udcl8j31100kl4cx.jpg)
+
+
+### 1-2. セットアップ：VS Codeを使う場合
+
+- サンプルファイルをVS Codeで開く
+- 同時にサンプルファイルをブラウザ（Chrome, IE, Firefoxなど）でも開く
+- コードを変更した後にVS Code側で保存（ctrl+s）し、ブラウザを更新すると、変更が反映される（慣れないうちはこまめに保存→ブラウザで表示確認を繰り返すのが安心）
 
 ![](https://tva1.sinaimg.cn/large/0081Kckwgy1gkcw6udcl8j31100kl4cx.jpg)
 
